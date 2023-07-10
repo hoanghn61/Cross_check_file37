@@ -1,0 +1,186 @@
+{
+  "Channels": [
+    {
+      "type": "singleLineText",
+      "name": "Id"
+    },
+    {
+      "type": "singleLineText",
+      "name": "Name"
+    },
+    {
+      "type": "singleLineText",
+      "name": "Creator Id"
+    },
+    {
+      "type": "dateTime",
+      "options": {
+        "dateFormat": {
+          "name": "local",
+          "format": "l"
+        },
+        "timeFormat": {
+          "name": "24hour",
+          "format": "HH:mm"
+        },
+        "timeZone": "Asia/Ho_Chi_Minh"
+      },
+      "name": "Created"
+    },
+    {
+      "type": "singleLineText",
+      "name": "Topic"
+    },
+    {
+      "type": "singleLineText",
+      "name": "Purpose"
+    },
+    {
+      "type": "number",
+      "options": {
+        "precision": 0
+      },
+      "name": "Num Members"
+    },
+    {
+      "type": "checkbox",
+      "options": {
+        "icon": "check",
+        "color": "greenBright"
+      },
+      "name": "Is Private"
+    },
+    {
+      "type": "checkbox",
+      "options": {
+        "icon": "check",
+        "color": "greenBright"
+      },
+      "name": "Is Archived"
+    }
+  ],
+  "Users": [
+    {
+      "type": "singleLineText",
+      "name": "Id"
+    },
+    {
+      "type": "singleLineText",
+      "name": "Display Name"
+    },
+    {
+      "type": "singleLineText",
+      "name": "Real Name"
+    },
+    {
+      "type": "email",
+      "name": "Email"
+    },
+    {
+      "type": "number",
+      "options": {
+        "precision": 0
+      },
+      "name": "Num Channels"
+    },
+    {
+      "type": "checkbox",
+      "options": {
+        "icon": "check",
+        "color": "greenBright"
+      },
+      "name": "Is Active"
+    },
+    {
+      "type": "dateTime",
+      "options": {
+        "dateFormat": {
+          "name": "local",
+          "format": "l"
+        },
+        "timeFormat": {
+          "name": "24hour",
+          "format": "HH:mm"
+        },
+        "timeZone": "Asia/Ho_Chi_Minh"
+      },
+      "name": "Updated"
+    },
+    {
+      "type": "multipleSelects",
+      "options": {
+        "choices": [
+          {
+            "name": "Owner"
+          },
+          {
+            "name": "Admin"
+          },
+          {
+            "name": "Primary Owner"
+          },
+          {
+            "name": "Restricted"
+          },
+          {
+            "name": "Ultra Restricted"
+          },
+          {
+            "name": "Bot"
+          }
+        ]
+      },
+      "name": "Role"
+    }
+  ],
+  "Tasks": [
+    {
+      "type": "singleLineText",
+      "name": "Id"
+    },
+    {
+      "type": "checkbox",
+      "options": {
+        "icon": "check",
+        "color": "greenBright"
+      },
+      "name": "Is Manual"
+    },
+    {
+      "type": "number",
+      "options": {
+        "precision": 0
+      },
+      "name": "Num of additions"
+    },
+    {
+      "type": "number",
+      "options": {
+        "precision": 0
+      },
+      "name": "Num of updates"
+    },
+    {
+      "type": "number",
+      "options": {
+        "precision": 0
+      },
+      "name": "Num of deletions"
+    },
+    {
+      "type": "dateTime",
+      "options": {
+        "dateFormat": {
+          "name": "local",
+          "format": "l"
+        },
+        "timeFormat": {
+          "name": "24hour",
+          "format": "HH:mm"
+        },
+        "timeZone": "Asia/Ho_Chi_Minh"
+      },
+      "name": "Update Time"
+    }
+  ]
+}

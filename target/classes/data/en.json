@@ -1,0 +1,54 @@
+{
+  "currentLanguage": "en",
+  "localSyncNotSuccess": "Sync failed",
+
+  "listChannelButton": "List Channels",
+  "listUserButton": "List Users",
+  "createChannelButton": "Create Channel",
+  "addUserButton": "Add User",
+  "removeUserButton": "Remove User",
+  "syncButton": "Sync",
+  "setSyncButton": "Set Sync Schedule",
+  "toXlsxButton": "Export to Excel",
+  "ExportToXlsxSuccess": "Export to Excel successful",
+
+  "listChannelStatus": "List channels successful",
+  "listUserStatus": "List users successful",
+
+  "enterChannelName": "Enter channel name:",
+  "isPrivate?": "Is it a private channel ?",
+  "private": "Private",
+  "channelCreated": "Channel created",
+  "ChannelNotCreated": "Channel not created",
+
+  "channelNotFound": "Channel not found",
+
+  "enterUserEmail": "Enter user email:",
+  "userNotFound": "User not found",
+
+  "userAlreadyInChannel": "User is already in the channel",
+
+  "userAddedToChannel": "User added to the channel",
+  "userNotAddedToChannel": "User not added to the channel",
+
+  "userRemovedFromChannel": "User removed from the channel",
+  "userNotRemovedFromChannel": "User not removed from the channel",
+  "userNotInChannel": "User is not in the channel",
+
+  "dataSynced": "Data synced",
+  "dataNotSynced": "Data not synced",
+
+  "enterTime": "Enter time (hh:mm:ss):",
+  "invalidTime": "Invalid time",
+  "timeSyncSet": "Time sync set",
+
+  "enterPath": "Enter path:",
+  "invalidPath": "Invalid path",
+
+  "changeLanguage": "Switch to Vietnamese",
+
+  "languageChanged": "Language changed",
+  "languageNotChanged": "Language not changed",
+  "sureContinue": "Are you sure you want to continue ?",
+  "continue": "Continue"
+}

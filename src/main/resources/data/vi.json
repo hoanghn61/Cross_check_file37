@@ -1,0 +1,54 @@
+{
+  "currentLanguage": "vi",
+  "localSyncNotSuccess": "Đồng bộ thất bại",
+
+  "listChannelButton": "Danh sách Kênh",
+  "listUserButton": "Danh sách Người dùng",
+  "createChannelButton": "Tạo Kênh",
+  "addUserButton": "Thêm Người dùng",
+  "removeUserButton": "Xóa Người dùng",
+  "syncButton": "Đồng bộ",
+  "setSyncButton": "Đặt Lịch đồng bộ",
+  "toXlsxButton": "Xuất ra Excel",
+  "ExportToXlsxSuccess": "Xuất ra Excel thành công",
+
+  "listChannelStatus": "Liệt kê danh sách kênh thành công",
+  "listUserStatus": "Liệt kê danh sách người dùng thành công",
+
+  "enterChannelName": "Nhập tên kênh:",
+  "isPrivate?": "Đây có phải là kênh riêng tư ?",
+  "private": "Riêng tư",
+  "channelCreated": "Kênh đã được tạo",
+  "ChannelNotCreated": "Kênh không được tạo",
+
+  "channelNotFound": "Không tìm thấy kênh",
+
+  "enterUserEmail": "Nhập email người dùng:",
+  "userNotFound": "Không tìm thấy người dùng",
+
+  "userAlreadyInChannel": "Người dùng đã ở trong kênh",
+
+  "userAddedToChannel": "Người dùng đã được thêm vào kênh",
+  "userNotAddedToChannel": "Người dùng không được thêm vào kênh",
+
+  "userRemovedFromChannel": "Người dùng đã được xóa khỏi kênh",
+  "userNotRemovedFromChannel": "Người dùng không được xóa khỏi kênh",
+  "userNotInChannel": "Người dùng không ở trong kênh",
+
+  "dataSynced": "Dữ liệu đã được đồng bộ",
+  "dataNotSynced": "Dữ liệu không được đồng bộ",
+
+  "enterTime": "Nhập thời gian (hh:mm:ss):",
+  "invalidTime": "Thời gian không hợp lệ",
+  "timeSyncSet": "Lịch đồng bộ đã được đặt",
+
+  "enterPath": "Nhập đường dẫn:",
+  "invalidPath": "Đường dẫn không hợp lệ",
+
+  "changeLanguage": "Chuyển sang tiếng Anh",
+
+  "languageChanged": "Ngôn ngữ đã được thay đổi",
+  "languageNotChanged": "Ngôn ngữ không được thay đổi",
+  "sureContinue": "Bạn có chắc chắn muốn tiếp tục ?",
+  "continue": "Tiếp tục"
+}
